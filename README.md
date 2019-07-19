@@ -1,9 +1,9 @@
-# PROFESSIONAL TRACK INFO
+﻿# PROFESSIONAL TRACK INFO
 
-Student Name: 
+Student Name: Rediet Girma
 
-Track Name: 
+Track Name: Node Js
 
-Track Description: 
+Track Description: Back-end
 
 ![MSD Logo](assets/logo-small.png "MSD Logo") 
